@@ -7,7 +7,8 @@
     # set relay trigger to low
     # set relay 
     # enable RFID reader
-
+    # set LED pins to 0
+    #set LED to blue
 #ISR(Pinchange interrupt for RFID)
     #get chip value
     #store chip value
@@ -30,5 +31,8 @@
 #read pin value of on/off
     #if off AND rfid = pass
        #fire relay switch
+        #set light to green
      # if on
       #turn off relay switch
+        #pulse led red twice
+        #turn led blue
