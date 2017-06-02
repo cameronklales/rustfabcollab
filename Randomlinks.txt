@@ -1,0 +1,4 @@
+https://github.com/ckfire/rustfabcollab.git
+http://www.raspberrypi-spy.co.uk/2014/05/how-to-autostart-apps-in-rasbian-lxde-desktop/
+https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/noobs/GetStartedStep1.htm
+https://www.raspberrypi.org/documentation/remote-access/vnc/
